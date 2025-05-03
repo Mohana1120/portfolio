@@ -6,7 +6,7 @@
             
         }
         header {
-            background-color: #cb52c7;
+            background-color: #c84577;
             color: rgb(249, 245, 245);
             padding: 10px 0;
             text-align: center;
@@ -34,7 +34,7 @@
         .section {
             padding: 50px 20px;
             text-align: center;
-            background-color: rgb(244, 240, 231;
+            background-color: rgb(219, 205, 174);
         }
         .section h2 {
             font-size: 36px;
@@ -51,7 +51,7 @@
             gap: 20px;
         }
         .card {
-            background-color: white;
+            background-color: rgb(163, 124, 124);
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
             width: 300px;
