@@ -1,3 +1,4 @@
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -8,7 +9,7 @@ body {
 
 
 header {
-    background-color: #443189;
+    background-color: #3f365e;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -49,7 +50,7 @@ nav a:hover {
 .section {
     padding: 50px 20px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: #a4b0c4;
     margin-bottom: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -58,7 +59,7 @@ nav a:hover {
 .section h2 {
     font-size: 34px;
     margin-bottom: 20px;
-    color: #d2795c;
+    color: #d6643e;
 }
 
 .section p {
@@ -109,6 +110,7 @@ nav a:hover {
     border-top: 2px solid #1de9b6;
 }
 
+
 @media (max-width: 768px) {
     .skills, .projects, .education-cards {
         flex-direction: column;
@@ -142,5 +144,6 @@ nav a:hover {
     .section p {
         font-size: 16px;
     }
+}
 }
 
